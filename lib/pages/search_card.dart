@@ -31,7 +31,7 @@ class SearchCard extends ConsumerWidget {
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 26),
             child: Text(
-              'MTG: Dex',
+              'MTG:Dex',
               style: GoogleFonts.bebasNeue(fontSize: 60),
             ),
           ),
