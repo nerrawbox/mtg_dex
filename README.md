@@ -5,7 +5,7 @@
 A simple Magic The Gathering Card finder
 
 
-- [API Used](https://scryfall.com/docs/api)
+- [API Used: Scryfall](https://scryfall.com/docs/api)
 
 ```
 Sample Card Names to Search
